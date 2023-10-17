@@ -1,0 +1,15 @@
+Name of country: A
+1 place.
+
+Name of country: Baaaa
+1 place.
+
+Name of country: Bangladesh
+1 place.
+
+Name of country: Anax
+2 place.
+
+Name of country: Banana
+10 place.
+

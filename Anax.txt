@@ -1,0 +1,11 @@
+Name of country: Anax
+Sport: running - 2 place.
+
+Sport: swimming - 2 place.
+
+Sport: basketball - 3 place.
+
+Sport: football - 4 place.
+
+Sport: boxing - 5 place.
+

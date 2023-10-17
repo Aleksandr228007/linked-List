@@ -1,0 +1,7 @@
+Name of country: Banana
+Sport: boxing - 2 place.
+
+Sport: basketball - 3 place.
+
+Sport: swimming - 10 place.
+

@@ -1,0 +1,21 @@
+Name of country: A
+Sport: swimming - 1 place.
+
+Name of country: Anax
+Sport: running - 2 place.
+Sport: swimming - 2 place.
+Sport: basketball - 3 place.
+
+Name of country: Baaaa
+Sport: swimming - 1 place.
+Sport: boxing - 2 place.
+
+Name of country: Banana
+Sport: boxing - 2 place.
+Sport: basketball - 3 place.
+
+Name of country: Bangladesh
+Sport: swimming - 1 place.
+Sport: boxing - 2 place.
+Sport: basketball - 3 place.
+
